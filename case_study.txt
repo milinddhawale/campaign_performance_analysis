@@ -1,0 +1,24 @@
+Assignment:
+The assignment is to investigate and analyze the attached campaign performance data,
+producing actionable insights for business and senior leadership team.
+Please feel free use whichever tool/language of your choice to generate insights and how you
+would recommend actioning them / prioritizing them. Prepare a 1-2 slide presentation that you
+will walkthrough in the interview.
+
+Deliverables:
+1. The code you used to perform the work (please use comments to describe your
+choices/steps).
+2. A presentation that describes the results in 2-3 slides for a business audience. Assume the
+audience has minimal technical knowledge.
+
+Expectations:
+We are looking to understand your familiarity with data analysis and insights generation. We
+would also like to see your comfort level with creating business value from analytics.
+We are not expecting you to work on this task for more than 8 hours. The data column names
+are self explanatory, if you need to make certain assumption while using the fields, please call it
+in your comments. If you find that you are spending too much time on the analysis section,
+please feel free to explain in comments any additional steps that you would like to take if this
+project were assigned to you in the role of a Sr. Analyst at BMO. For the presentation, feel free
+to make any assumptions that will help you put together a business case. Our goal is to
+understand how you structure the problem and how you connect data to insights for leadership
+team/ business partners.
